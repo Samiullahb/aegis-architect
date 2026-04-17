@@ -1,0 +1,10 @@
+name = "aegis-architect"
+pages_build_output_dir = "dist"
+
+[build]
+command = "npm run build"
+watch_dir = "/src"
+
+[deployment]
+# Cloudflare Pages compatibility
+compatibility_date = "2026-04-17"

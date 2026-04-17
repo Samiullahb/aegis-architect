@@ -1,0 +1,6 @@
+{
+  "name": "Aegis Architect",
+  "description": "Autonomous offensive security dashboard for authorized bug bounty research and AI safety auditing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
